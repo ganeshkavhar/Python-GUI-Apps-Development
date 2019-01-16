@@ -8,4 +8,4 @@ Description | Screenshot
 [live PCM and FFT plotting with QtGraph](https://github.com/swharden/Python-GUI-examples/tree/master/2016-07-37_qt_audio_monitor) (based on PlotWidget) | <img src="/2016-07-37_qt_audio_monitor/demo.gif" width="300">
 
 ### Useful Links:
-* [Author](https://github.com/ganeshkavhar)
+* [ganesh kavhar](https://github.com/ganeshkavhar)
